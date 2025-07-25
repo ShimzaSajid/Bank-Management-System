@@ -24,6 +24,9 @@ Built as a mini project to demonstrate file handling, user authentication with h
 
 - Each account is saved in a separate `.dat` file: `12345.dat`
 - Transaction history is logged in a `.txt` file: `12345_history.txt`
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/34c8d49a-c9c3-4cb4-a1eb-3cd1cfc73b06" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/37d1e7f6-cfbb-4798-8eae-2bdd55cd6f12" />
+
 
 ## 🖥️ How to Run
 
